@@ -5,7 +5,7 @@
 Este laboratorio contiene soluciones a cuatro ejercicios en Haskell que hacen uso de funciones lambda para manipular listas y estructuras de datos.
 
 ## Video de ejecucion
-[Video]((https://youtu.be/6RpQhsJoO4E))
+[Video]([https://youtu.be/6RpQhsJoO4E])
 
 
 ## Ejercicios
